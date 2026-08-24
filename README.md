@@ -4,7 +4,7 @@
 
 ### Estudante de Análise e Desenvolvimento de Sistemas
 
-Tenho 21 anos e estou cursando **Tecnologia em Análise e Desenvolvimento de Sistemas (TADS)** na Universidade Nove de Julho, unidade Vergueiro. Sou curioso por natureza, gosto de entender como as coisas funcionam por trás dos panos — e atualmente estou em busca de uma vaga de **estágio na área bancária/TI**.
+Tenho 21 anos e estou cursando **Tecnologia em Análise e Desenvolvimento de Sistemas (TADS)** na Universidade Nove de Julho, unidade Vergueiro. Sou curioso por natureza, gosto de entender como as coisas funcionam por trás dos panos — e atualmente estou em busca de uma vaga de **estágio na área TI**.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugo-tadeu-55aa78423/)
 [![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hugo.tadeu.tads@gmail.com)
@@ -18,8 +18,7 @@ Tenho 21 anos e estou cursando **Tecnologia em Análise e Desenvolvimento de Sis
 - 🎓 Cursando TADS na Uninove (conclusão prevista: 1º semestre de 2028)
 - 💼 Experiência prévia com vendas (Shopee, Shein) e operação em ponto de coleta
 - 📊 Já trabalhei com **Bling** e comandos básicos de banco de dados
-- 🧠 Aprendendo **linguagem C**, com prática em orientação a objetos e banco de dados
-- 🏦 Buscando oportunidade de **estágio na área bancária**
+- 🧠 Aprendendo **linguagem C**, com prática em orientação a objetos e banco de dados 
 - 📈 Estudando tráfego pago e vendas como afiliado (interesse paralelo)
 
 ---
